@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ## STGにしか入ってないような変更
+=======
+## Topicで先に入った変更
+
+Topicで先にmainに変更が入ってdevelopで取り込むとコンフリクトして欲しい
+>>>>>>> origin/master
